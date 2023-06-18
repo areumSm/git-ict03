@@ -1,6 +1,6 @@
 # 2021219019 학번의 REAME 입니다...
 
-## 2021219019 학번의 ICT03 Thech Full Stacks
+## 2021219019 학번의 Thech Full Stacks
 - Java
 - Spring Framework
 - Spring Boot
